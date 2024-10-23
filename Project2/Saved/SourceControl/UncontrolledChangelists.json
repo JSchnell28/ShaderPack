@@ -1,0 +1,51 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/Crystal_Translucent.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/foliage-mesh.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/GrassFoliageMat.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/WindSway.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/Water.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/9B/YKW70EDDYTFHA7J7WA2MWD.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/T7/0TVQIMPZ6RJEWV3FINZ3I6.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/SampleStencilBuffer.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/StencilCross.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/StencilEdgeDetect.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/StencilBufferOutline.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/GrassFoliage.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/MultiplyBitmask.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/PP_CelShading.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/Glass.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/51/6JKB4DNGJP09QUHY23FHRV.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/E5/HNW26RQGJMCC4C3T21KHSZ.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/Crystal.uasset",
+				"C:/Users/schnellj4644/OneDrive - University of Wisconsin-Stout/Project2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"C:/Users/schnellj4644/Documents/Unreal Projects/Project2/Content/Crystal.uasset",
+				"C:/Users/schnellj4644/Documents/Unreal Projects/Project2/Content/Crystal_basecolor.uasset",
+				"C:/Users/schnellj4644/Documents/Unreal Projects/Project2/Content/Crystal_height.uasset",
+				"C:/Users/schnellj4644/Documents/Unreal Projects/Project2/Content/Crystal_normal.uasset",
+				"C:/Users/schnellj4644/Documents/Unreal Projects/Project2/Content/Crystal_orm.uasset",
+				"C:/Users/schnellj4644/Documents/Unreal Projects/Project2/Content/Crystal_translucency.uasset",
+				"C:/Users/schnellj4644/Documents/Unreal Projects/Project2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"C:/Users/schnellj4644/Documents/Unreal Projects/Project2/Content/Crystal_Clear.uasset",
+				"C:/Users/schnellj4644/Documents/Unreal Projects/Project2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"C:/Users/schnellj4644/Documents/Unreal Projects/Project2/Content/Crystal_Translucent.uasset",
+				"C:/Users/schnellj4644/Documents/Unreal Projects/Project2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset"
+			]
+		}
+	]
+}
